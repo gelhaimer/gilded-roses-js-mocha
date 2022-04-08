@@ -1,0 +1,16 @@
+.idea/
+*.iml
+target/
+
+.classpath
+.project
+bin/
+.settings/
+node_modules
+
+# Gradle
+.gradle
+/build/
+
+/src/test/java/com/gildedrose/GildedRoseApprovalTest.whatDoesUpdateQualityDo.received.txt
+/src/test/java/com/gildedrose/GildedRoseApprovalTest.whatDoesUpdateQualityDo.approved.txt
